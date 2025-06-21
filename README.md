@@ -1,6 +1,8 @@
 # MELEF FSW PROJECT EXECUTABLE (MELEF FSW)
 
-<img src="https://github.com/MELEFFSW/EXECUTABLE/blob/master/ASSETS/MELEF.jpg" alt="Agent Development Kit Logo" width="150">
+<div style="text-align: center;">
+  <img src="https://github.com/MELEFFSW/EXECUTABLE/blob/master/ASSETS/graphical%20abstract.tif?raw=true" alt="Agent Development Kit Logo" width="150">
+</div>
  
 Welcome to the MELEF Fresh-Salt Watershed repository! This collection provides an installation package and a user manual.
  
