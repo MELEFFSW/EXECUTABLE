@@ -1,6 +1,6 @@
 # MELEF FSW PROJECT EXECUTABLE (MELEF FSW)
 
-<img src="https://github.com/google/adk-docs/blob/main/docs/assets/agent-development-kit.png" alt="Agent Development Kit Logo" width="150">
+<img src="https://github.com/MELEFFSW/EXECUTABLE/blob/master/ASSETS/MELEF.jpg" alt="Agent Development Kit Logo" width="150">
  
 Welcome to the Sample Agents repository! This collection provides ready-to-use agents built on top of the [Agent Development Kit], designed to accelerate your development process.  These agents cover a range of common use cases and complexities, from simple conversational bots to complex multi-agent workflows.
  
