@@ -1,1 +1,17 @@
-# EXECUTABLE
+# MELEF FSW PROJECT EXECUTABLE (MELEF FSW)
+
+<img src="https://github.com/google/adk-docs/blob/main/docs/assets/agent-development-kit.png" alt="Agent Development Kit Logo" width="150">
+ 
+Welcome to the Sample Agents repository! This collection provides ready-to-use agents built on top of the [Agent Development Kit], designed to accelerate your development process.  These agents cover a range of common use cases and complexities, from simple conversational bots to complex multi-agent workflows.
+ 
+## ✨ What is MELEF FSW?
+ 
+In distributed hydrological modeling, there are commercial reference codes such as Mike She, Mike Basin, Cathy, ModFlow, Feflow among some other models. The development of physical based distributed numerical technologies, which are an alternative to other commercial solutions, are usually not relevant when they do not provide confident solutions to most hydrological processes. In this context, researchers from the University of La Coruña and the University of Guanajuato join forces to develop a numerical solution with a series of qualities and capabilities that distinguish it from other codes. This approach allows solving the groundwater and surfacewater flows of a hydrological region in an integrated way for most hydrological processes. The FreshSaltWatershed (FSW) model, as one of MELEF models (Modèles d'ÉLÉments Finis, for its acronym in French), considers novel capacities to solve the continental and coastal regional groundwater and surfacewater flows in an integrated way, as most regulation problems and seawater intrusion through an immiscible interface of fresh-salt water.
+
+## ✨ Installation
+
+The MELEF FreshSaltWatershed (FSW) User Interface was created as stand-alone executable of Matlab R2012a (7.17, 32 bits) for Windows. As it is a stand-alone executable, it allows running the program through the Matlab Runtime R2012a, version 7.17 with 32 bits. The Matlab Runtime can be downloaded for free from the following link: https://la.mathworks.com/products/compiler/matlab-runtime.html.
+Matlab Runtinme contains the minimum libraries necessary for executables to work. If you already have Matlab installed, or the Matlab Runtime, in version R2023b (23.2, 64 bits) for Windows, it is not necessary to install the Runtime as well/again. If required, download and install the Runtime in the correct version, the User Interface will not run without the right version of Matlab / Runtime installed.
+The next step is to execute the MELEF FSW.exe package to install the User Interface, the GIS Toolbox and Python Scripts, the MELEF FSW Numerical Model, and Manuals in PDF and CHM formats.
+Respect to the GIS Toolbox for QGIS and ArcGIS (ESRI) platforms, it is developed with Python Scripts. For ArcMAP the GIS Toolbox works on versions 10.1 to 10.8.2. For QGIS the Python Scripts were developed in version 3.10 (A Coruña) and higher versions of QGIS would work with the MELEF FSW Toolbox.
+Regarding the operating system and the characteristics of the processing equipment, it should be considered that ArcGIS or QGIS are required for management and transformation of spatial information that demands specific characteristics for graphic design. Whereas the User Interface through the Matlab Runtime can be less demanding of CPU processing or graphics, the calculation time of MELEF FSW model will depends directly on the processor capacity. Therefore, the following minimum characteristics are suggested:
