@@ -1,13 +1,8 @@
 # MELEF FSW PROJECT EXECUTABLE (MELEF FSW)
 
-<style>
-  .centered-image {
-    display: block;
-    margin: 0 auto;
-  }
-</style>
-
-<img src="https://github.com/MELEFFSW/EXECUTABLE/blob/master/ASSETS/GraphicalAbstract.png" alt="MELEF FSW MODEL" width="300" class="centered-image">
+<div style="text-align: center;">
+<img src="https://github.com/MELEFFSW/EXECUTABLE/blob/master/ASSETS/GraphicalAbstract.png" alt="MELEF FSW MODEL" width="300" style="display: inline-block; float: none;">
+</div>
 
  
 Welcome to the MELEF Fresh-Salt Watershed repository! This collection provides an installation package and a user manual.
