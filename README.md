@@ -57,7 +57,7 @@ COLABORATORS: Dr. José Alfredo González Calderón
 
 1. Numerical modelling of surfacewater/groundwater flows for freshwater/saltwater hydrology: the case of the alluvial coastal aquifer of the Low Guadalhorce River, Malaga, Spain (https://link.springer.com/article/10.1007/s00254-007-0977-2)
 2. A numerical solution to integrated water flows: Application to the flooding of an open pit mine at the Barcés river catchment – La Coruña, Spain (https://www.sciencedirect.com/science/article/abs/pii/S0022169412008578)
-3. A Numerical Solution for the Integrated Analysis of Water Resources Management: Application to the Mero River Watershed,  La Coruña, Spain (chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://file.scirp.org/pdf/JWARP_2015071713384131.pdf)
+3. A Numerical Solution for the Integrated Analysis of Water Resources Management: Application to the Mero River Watershed,  La Coruña, Spain (https://file.scirp.org/pdf/JWARP_2015071713384131.pdf)
 4. Application of a numerical model designed for integrated watershed management (https://www.witpress.com/Secure/elibrary/papers/WS15/WS15011FU1.pdf)
 5. Improvements in Mero River Basin Water Supply Regulation Through Integration of a Mining Pit Lake as a Water Supply Source (https://link.springer.com/article/10.1007/s10230-015-0378-9)
 6. Modelling Integrated Extreme Hydrology (https://www.witpress.com/elibrary/sse-volumes/6/3/1362)
