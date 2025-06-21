@@ -49,9 +49,9 @@ When starting the user interface, it will take a moment to display (approximatel
 
 ## ✨ Contact information
 
-DEVELOPERS: Dr. Francisco Padilla Benítez and Dr. Jesús Horacio Hernández Anguiano
+DEVELOPERS: Dr. Francisco Padilla Benítez and Dr. Jesús Horacio Hernández Anguiano.
+CONTACT: francisco.padilla@udc.es and horacio.hernandez@ugto.mx.
 COLABORATORS: Dr. José Alfredo González Calderón
-CONTACT: francisco.padilla@udc.es and horacio.hernandez@ugto.mx
 
 ## ✨ Publications
 
