@@ -1,6 +1,6 @@
 # MELEF FSW PROJECT EXECUTABLE (MELEF FSW)
 
-<img src="https://github.com/MELEFFSW/EXECUTABLE/blob/master/ASSETS/graphicalAbstract.png" alt="MELEF FSW MODEL" width="600">
+<img src="https://github.com/MELEFFSW/EXECUTABLE/blob/master/ASSETS/graphicalAbstract.png" alt="MELEF FSW MODEL" width="300">
  
 Welcome to the MELEF Fresh-Salt Watershed repository! This collection provides an installation package and a user manual.
  
